@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey :+1:
+![image](https://www.canva.com/design/DAECtsH67aE/ZdfR3wkUM-6QwJsixOszSA/view?utm_content=DAECtsH67aE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink "Logo Title Text 1")
+
+### Hey
