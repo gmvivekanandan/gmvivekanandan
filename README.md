@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 ![image](https://github.com/gmvivekanandan/gmvivekanandan/blob/master/images/Corporate%20Website%20Facebook%20Cover%20Photo.png "Logo Title Text 1")
 
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+
 ### Hey
