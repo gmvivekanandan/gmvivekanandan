@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](images/Corporate Website Facebook Cover Photo.png "Logo Title Text 1")
+![image](https://github.com/gmvivekanandan/gmvivekanandan/blob/master/images/Corporate%20Website%20Facebook%20Cover%20Photo.png "Logo Title Text 1")
 
 ### Hey
